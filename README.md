@@ -6,9 +6,9 @@
 - Walker Teotônio Correia de Barros
 
 ### Queremos responder as perguntas a seguir
- -  Qual a empresa com maior probabilidade de retorno no período de um mês?
- -  Quais as diferenças nas ações da PETRE e da COGNE?
- -  Qual empresa teve a maior taxa de variação no preço do último negócio?
+ -  Qual o produto mais vendido pelo supermercado?
+ -  São os homens ou as mulheres que mais compram no supermercado?
+ -  Existe algum período onde o supermercado mais vende?
 
 ### Dados utilizados:
 
