@@ -16,8 +16,35 @@
 https://www.kaggle.com/datasets/omercolakoglu/turkish-market-sales-dataset-with-9000items/discussion
 
 #### Pré-processamento
+Setar as colunas DATE, STARTDATE e ENDDATE para o tipo data e a coluna CLIENTCODE para o tipo string.
 
 ##### Estruturação
+O Dataset originalmente tem 600 mil linhas e 25 colunas que são: 
+  ITEMCODE       
+  ITEMNAME       
+  FICHENO              
+  DATE            
+  QUANTIDADE           
+  PRICE          
+  LINENETTOTAL      
+  LINENET        
+  FILIALNR         
+  FILIAL               
+  VENDEDOR         
+  CITY                   
+  REGION          
+  LATITUDE          
+  LONGITUDE        
+  CLIENTCODE      
+  CLIENTNAME           
+  MARCA_CODE     
+  MARCA               
+  CATEGORY_NAME1       
+  CATEGORY_NAME2        
+  CATEGORY_NAME3  
+  STARTDATE      
+  ENDDATE        
+  GENDER
 
 ###### Nomeação e tradução de colunas
 Para um melhor entendimento e otimização do desenvolvimento do projeto, foi necessário a tradução e nomeação de algumas colunas e linhas do dataset como as colunas AMOUNT, BRANCHNR, DATE_, BRANCH, SALESMAN, BRANDCODE, e BRAND que foram traduzidas ou renomeadas para QUANTIDADE, FILIALNR, DATE, FILIAL, VENDEDOR, MARCA_CODE e MARCA respectivamente.
@@ -35,11 +62,11 @@ Felizmente não foi necessário remover dados incorretos no dataset, pois ele fo
 Colunas com grandes números de erros nos registros e que não eram relevantes para a amostra, foram removidas. Essas colunas foram identificadas com base na análise da medidas de tedência central das mesmas
 
 #### Conclusões
+Conclui que a análise de dados do contexto de vendas de um supermercado turco, contribuiu muito para o meu aprendizdo e principalmente para minhas autonomia, pois não achei que sozinho iria conseguir fazer uma boa parte do projeto e ainda revisar alguns contéudos que faltei durante o período.
 
 ##### Resultados
+Entendimento da relação dos produtos com as quantidades.
+Compreensão dos tipos de produto e suas vendas.
 
 ##### Limitações 
-
-##### Trabalhos futuros
-
-##### Melhorias
+Tempo disponível, difuculdades com horário, somente um desenvolvedor.
